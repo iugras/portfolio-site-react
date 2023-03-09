@@ -9,14 +9,18 @@ const Home = () => {
         <div className="container">
 
                 <ul className="content-list">
+                <li className="content-list__item">
+                        <h2 className="title-2">No-code et graphic design</h2>
+                        <p> Webflow, WordPress, UML, Figma, Adobe XD</p>
+                 </li>
                     <li className="content-list__item">
                         <h2 className="title-2">Frontend</h2>
-                        <p> WordPress, Figma</p>
+                        
                         <p>HTML5/CSS3, JavaScript, jQuery, React.js</p>
                     </li>
                     <li className="content-list__item">
                         <h2 className="title-2">Backend</h2>
-                        <p>PHP, C#, Python, MySQL, Microsoft SQL Server </p>
+                        <p>PHP, Symfony, C#.NET, Python, SQL </p>
                     </li>
                 </ul>
 

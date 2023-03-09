@@ -8,7 +8,7 @@ const Header = () => {
     <div className="header__wrapper">
         <h1 className="header__title">
             <strong>Hi, I am <em>IULIIA GRAS</em></strong><br/>
-            a Web Developer
+             IT Developer
         </h1>
         <div className="header__text">
             <p>with passion for learning and creating.</p>
