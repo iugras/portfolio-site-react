@@ -20,7 +20,7 @@ const Home = () => {
                     </li>
                     <li className="content-list__item">
                         <h2 className="title-2">Backend</h2>
-                        <p>PHP, Symfony, C#.NET, Python, SQL </p>
+                        <p>PHP, Symfony, C#.NET, VB.NET, ASP.NET, Node.js, Python, SQL </p>
                     </li>
                 </ul>
 
