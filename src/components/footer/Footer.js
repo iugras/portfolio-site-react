@@ -12,7 +12,7 @@ const Footer = () => {
                 
                 <li className="social__item"><a href="#!"><img src={instagram} alt="Link"/></a></li>
                 <li className="social__item"><a href="https://github.com/jush87"><img src={gitHub} alt="Link"/></a></li>
-                <li className="social__item"><a href="https://www.linkedin.com/in/iuliia-gras-360110133/"><img src={linkedIn} alt="Link"/></a></li>
+                <li className="social__item"><a href="https://www.linkedin.com"><img src={linkedIn} alt="Link"/></a></li>
             </ul>
             <div className="copyright">
                 <p>© 2023</p>
